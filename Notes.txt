@@ -1,3 +1,7 @@
-Welcome 
+[Q.1]What is HTML ? 
 
-Day_2
+-> HTML Stands for Hypertext Markup Language.
+
+[Q.2]What is Semantic Tags in HTML5 ?
+
+-> Semantic tags are 
