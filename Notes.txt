@@ -4,4 +4,14 @@
 
 [Q.2]What is Semantic Tags in HTML5 ?
 
--> Semantic tags are 
+-> Semantic tags are <header>,
+
+
+[Q.3]What is the Difference between HTML and HTML5 ?
+
+-> HTML is the basic without Semantic Tags.
+   HTML5 is the latest version used to create the layout/Structure of the website used Semantic tags.
+
+
+How to create a Component in react 
+and basics of React and how hooks are use in real world scenerio
