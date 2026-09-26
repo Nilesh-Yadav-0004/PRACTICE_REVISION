@@ -15,3 +15,10 @@
 
 How to create a Component in react 
 and basics of React and how hooks are use in real world scenerio
+
+
+Things should be learn in HTML and CSS 
+
+(1) Navbar of the website using HTML and CSS.
+(2) Main div and Content of the website.
+(3) Footer of the website and all the content.
